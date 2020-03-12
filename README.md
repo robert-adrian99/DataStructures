@@ -1,6 +1,6 @@
 # Data Structures
 
-- This repository represents my work at Data Structures course on university.
+- This repository represents my work at Data Structures course at university.
 - Laboratory's homework are implemented in C++.
 * At this course I've learned about simple and advanced data structures like:
 1. Vectors and matrices
